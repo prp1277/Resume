@@ -1,0 +1,48 @@
+Patrick Powell Financial Analyst
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+CONTACT
+| Email: Prp1277@gmail.com | Phone: 402-415-9083 | Address: 7929 Summit St Kansas City, MO 64114 | LinkedIn: https://linkedin.com/in/prpowell1277 |
+
+SUMMARY
+A business analyst interested in using Microsoft’s Business Intelligence tools to automate processes and provide solutions to complex problems.   
+
+EMPLOYMENT HISTORY
+
+REINHART FOODSERVICE(August 2017 – February 2018)
+PURCHASING ASSISTANT
+* Built, managed and maintained Excel and Power Bi dashboards for inventory valuation to provide insights to management
+* Created dynamic Excel templates using VBA and Power Queries to optimize Procurement, Warehousing and Transportation
+* Took ownership of the weekly Perfect Order Reports and meetings to trace and eliminate invoice errors
+  - Decreased invoice errors due to product availability by 34%
+* Purchased 221 Products from 22 vendors, managed inventory levels and communications between vendors, a centralized repurchasing team, sales representatives and customers 
+
+STATE STREET INVESTMENT SERVICING(February 2017 – August 2017)
+CLIENT OPERATIONS SPECIALIST, ASSOCIATE II - CONSULTANT
+* Participated in a daily work-flow to maintain the general ledger for a family of mutual funds
+* Documented procedures for processing transactions, journal entries and validating data between sources
+* Collaborated with a team of remote workers to ensure the client’s continual support
+* Consolidated information from various sources including Bloomberg Terminals, Multi-Currency Horizon and web-scrapes to reconcile daily Net Asset Value with DST’s Vision software 
+* Ran macros to eliminate human error and improve efficiency
+
+WADDELL & REED FINANCIAL SERVICES(February 2016 - October 2016)
+CUSTOMER SERVICE REPRESENTATIVE
+* Received telephone inquiries and provided support to shareholders and financial advisors  
+* Used DST’s TA2000 and AWD software to maintain shareholder information and records
+
+KEY BANK REAL ESTATE CAPITAL(Summer 2015)
+LOAN SURVEILLANCE AND ASSET MANAGEMENT, SURVEILLANCE INTERNSHIP 
+* Monitored loans serviced by Key Bank to ensure future cash flow and minimize credit risk
+* Analyzed Operating Statements and Rent Rolls, noted changes in income, expenses, occupancy and client defaults and reported significant changes to management
+* Researched and presented growth opportunities to the divisions managing directors
+
+EDUCATION
+
+ROCKHURST UNIVERSITY
+Certificate, Data Science
+Expected 2019
+
+MISSOURI STATE UNIVERSITY
+B.S. Finance, Accounting Minor
+Fall 2015 -  3.21 GPA
+[Type text]
+
